@@ -142,8 +142,8 @@ export const projects = [
     image:
       "https://i.ibb.co/yqkj7Xn/portfolio.png",
     tags: ["HTML", "CSS", "Javascript", "Bootstrap", "React JS","Styled Components"],
-    github: "https://MR-Bhavan.github.io/portpolio",
-    webapp: "https://github.com/MR-Bhavan/portpolio.git",
+    github: "https://github.com/MR-Bhavan/portpolio.git",
+    webapp: "https://mr-bhavan.github.io/portpolio/",
   },
   // {
   //   id: 3,
