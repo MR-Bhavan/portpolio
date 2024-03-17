@@ -142,8 +142,8 @@ export const projects = [
     image:
       "https://i.ibb.co/yqkj7Xn/portfolio.png",
     tags: ["HTML", "CSS", "Javascript", "Bootstrap", "React JS","Styled Components"],
-    github: "https://github.com/veeravelS/Personal-portfolio-Website.git",
-    webapp: " https://veeravels.github.io/Personal-portfolio-Website/",
+    github: "https://MR-Bhavan.github.io/portpolio",
+    webapp: "https://github.com/MR-Bhavan/portpolio.git",
   },
   // {
   //   id: 3,
