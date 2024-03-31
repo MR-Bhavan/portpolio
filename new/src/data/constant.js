@@ -116,23 +116,23 @@ export const education = [
 ];
 
 export const projects = [
-  // {
-  //   id: 1,
-  //   title: "Weather App",
-  //   date: "Dec 2023",
-  //   description:
-  //     "Developed weather app using Open Weather API to fetch data, dynamically binding it to create an interactive UI for real-time weather updates.",
-  //   image:
-  //     "https://i.ibb.co/DV8zqy2/weatherapp-image.png",
-  //   tags: [
-  //     "HTML",
-  //     "CSS",
-  //     "Javascript",
-  //     "React JS",
-  //   ],
-  //   github: "https://github.com/veeravelS/Weather--app.git",
-  //   webapp: "https://veeravels.github.io/Weather--app/",
-  // },
+  {
+    id: 1,
+    title: "e-commerce App",
+    date: "Dec 2023",
+    description:
+      "An e-commerce app is a digital platform that allows users to browse, purchase, and sell goods or services online, offering convenience and accessibility for shopping and transactions. It typically features secure payment gateways, product catalog management, order tracking, and customer support functionalities.",
+    image:
+      "https://i.ibb.co/yqVQmX7/Screenshot-22.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React JS",
+    ],
+    github: "https://github.com/MR-Bhavan/project",
+    webapp: "https://mr-bhavan.github.io/project/",
+  },
   {
     id: 2,
     title: "Personal Portfolio Website",
